@@ -1,0 +1,16 @@
+{
+  "name": "Rails + Next.js DevContainer",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {
+    "terminal.integrated.defaultProfile.linux": "zsh"
+  },
+  "extensions": [
+    "ms-azuretools.vscode-docker",
+    "rebornix.Ruby",
+    "ms-vscode.vscode-typescript-next",
+    "esbenp.prettier-vscode"
+  ],
+  "workspaceFolder": "/workspaces/rails_next_deploy"
+} 

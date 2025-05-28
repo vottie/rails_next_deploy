@@ -1,0 +1,23 @@
+# Rails
+/log/
+/tmp/
+/db/*.sqlite3
+/db/*.sqlite3-journal
+/public/system/
+/node_modules/
+/yarn-error.log
+.byebug_history
+
+# dotenv
+.env*
+
+# VSCode
+.vscode/
+
+# Docker
+*.pid
+*.swp
+
+# Next.js
+.next/
+out/ 
