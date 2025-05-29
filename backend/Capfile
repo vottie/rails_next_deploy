@@ -4,4 +4,4 @@ require 'capistrano/rails'
 require 'capistrano/bundler'
 require 'capistrano/rbenv'
 
-# 追加のCapistranoプラグインがあればここに記載 
+# Add additional Capistrano plugins here if needed 
